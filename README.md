@@ -20,4 +20,7 @@ what's at the bottom is marked `¤`.
   disk if you want it to.
 
 Arrows or WASD to move (tap beside yourself on a phone). Walking into a
-rat is the attack. Death is permanent; the keg is worth it.
+rat is the attack. Shift+direction (or the ✋, then a direction) is the
+shove: no blood, but whatever had you cornered goes sprawling and loses
+the scent — slip away while it shakes its head. A pull from a hip flask
+(`f`) buys hearts back. Death is permanent; the keg is worth it.
